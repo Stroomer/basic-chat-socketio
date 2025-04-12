@@ -8,7 +8,7 @@ Hele simpele chat applicatie met Socket.io en express, gebaseerd op de tutorial 
 
 **Client:** HTML, CSS, JS
 
-**Server:** Node, Express, Socket.io
+**Server:** Node, Socket.io
 
 ## Features
 
