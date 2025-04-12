@@ -2,7 +2,7 @@
 
 # Basic chat application
 
-Dit is de uitwerking van een hele simpele chat applicatie met Socket.io en express, gebaseerd op de tutorial van Dave Gray.
+Hele simpele chat applicatie met Socket.io en express, gebaseerd op de tutorial van Dave Gray.
 
 ## Tech Stack
 
