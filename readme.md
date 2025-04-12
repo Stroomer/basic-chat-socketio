@@ -6,7 +6,9 @@ Dit is de uitwerking van een hele simpele chat applicatie met Socket.io en expre
 
 ## Tech Stack
 
-**Client:** HTML, CSS, JS **Server:** Node, Express, Socket.io
+**Client:** HTML, CSS, JS
+
+**Server:** Node, Express, Socket.io
 
 ## Features
 
